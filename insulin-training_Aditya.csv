@@ -1,0 +1,34 @@
+age,weight,blood glucoseLevel,"carbohydr ate
+Intake",timeof theday,exercise,insulin dosage
+25,70,90,45,Morning,30,5.1
+30,85,150,60,Afternoon,45,12.3
+28,80,120,50,Evening,25,8.5
+35,90,180,70,Morning,60,15
+40,75,160,55,Afternoon,40,10.5
+27,72,110,50,Evening,20,7.8
+32,95,200,75,Morning,50,18.2
+31,88,140,65,Afternoon,35,11
+29,74,130,55,Evening,30,9
+33,82,170,70,Morning,45,13
+34,78,160,60,Afternoon,40,11.5
+37,94,190,80,Evening,25,17
+26,80,140,55,Morning,30,10
+29,87,150,65,Afternoon,35,12
+38,89,180,75,Evening,40,14.5
+24,76,125,50,Morning,20,8
+31,83,155,60,Afternoon,25,11.8
+26,79,145,55,Evening,30,10.5
+39,91,175,70,Morning,50,14
+28,77,165,65,Afternoon,35,12
+40,96,195,80,Evening,60,19
+25,73,125,50,Morning,25,7.5
+32,84,160,60,Afternoon,30,11.2
+30,80,150,55,Evening,35,10.8
+34,93,185,75,Morning,45,16.5
+27,86,140,55,Afternoon,20,10.2
+29,82,155,60,Evening,25,11
+35,90,175,70,Morning,40,13.5
+30,79,165,65,Afternoon,30,12.5
+33,92,190,80,Evening,35,17.8
+28,77,135,50,Morning,20,8.8
+31,81,145,55,Afternoon,25,9.5
