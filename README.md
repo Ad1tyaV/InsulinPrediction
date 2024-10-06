@@ -1,3 +1,7 @@
 ### Insulin Dosage prediction using Machine Learning
 
-<img src="gui.png" />
+<img src="insulin.png" />
+
+### Diabetes prediction using Machine Learning
+
+<img src="diabetes.png" />
